@@ -49,7 +49,7 @@ where
 
 <N> is the board width and height, e.g., N=5 for the 5x5 board shown in the figures above. N is an integer strictly greater than 0 and smaller than or equal to 26.
 
-<MODE> is “MINIMAX” or “ALPHABETA” or “COMPETITION”.
+<MODE> is “MINIMAX” or “ALPHABETA”.
 
 <YOUPLAY> is either “X” or “O” and is the player which you will play on this turn.
 
